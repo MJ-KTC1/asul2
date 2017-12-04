@@ -183,10 +183,10 @@ ki2mid = ki2.getProfile().mid
 ki3mid = ki3.getProfile().mid
 ki4mid = ki4.getProfile().mid
 ki5mid = ki5.getProfile().mid
-Bots = [mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,"u5d777f646c37180c939be97aa5097096"]
+Bots = [mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,"u15d6baf1b56b371f98fe441f0abf3ec5"]
 bot1 = cl.getProfile().mid
-admsa = "u5d777f646c37180c939be97aa5097096"
-admin = "u5d777f646c37180c939be97aa5097096"
+admsa = "u15d6baf1b56b371f98fe441f0abf3ec5"
+admin = "u15d6baf1b56b371f98fe441f0abf3ec5"
 
 wait = {
     'contact':False,
@@ -195,9 +195,9 @@ wait = {
     'leaveRoom':True,
     'timeline':False,
     'autoAdd':True,
-    'message':"selt bot by\n┅═हवतेु১तेั७ழণ১ह═ \nhttp://line.me/ti/p/~toon.38",
+    'message':"selt bot by\nพี่โจ ",
     "lang":"JP",
-    "comment":"Auto Like By \n┅═ह वतेु১तेั७ழণ১ह═┅",
+    "comment":"Auto Like By "\nพี่โจ,
     "commentOn":False,
     "likeOn":False,
     "commentBlack":{},
@@ -302,7 +302,7 @@ def bot(op):
             msg = op.message
             if msg.toType == 0:
                 msg.to = msg.from_
-                if msg.from_ == "u5d777f646c37180c939be97aa5097096":
+                if msg.from_ == "u15d6baf1b56b371f98fe441f0abf3ec5":
                     if "join:" in msg.text:
                         list_ = msg.text.split(":")
                         try:
