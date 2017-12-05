@@ -129,7 +129,7 @@ helpMessage ="""||=====  F O R   U S E R  =====||
 
                ✯==== Creator ====✯
 	
-  Http://line.me/ti/p/~toon.38
+  ✍☆ĴǾ*ﾟ¨ﾟ✎･
 
                     
 """
@@ -170,7 +170,7 @@ Thaihelp ="""\n
 ||✒️ Backup  - คิกเกอร์1กลับร่างเดิม
 ||✒️ Spam on/off  - ส่งข้อความสแปม
 ||==============================||
-✯★Creator By ═ह वतेु১तेั७ழণ১ह═★✯
+✯★Creator By ✍☆ĴǾ*ﾟ¨ﾟ✎･★✯
 
 """
 
@@ -195,9 +195,9 @@ wait = {
     'leaveRoom':True,
     'timeline':False,
     'autoAdd':True,
-    'message':"selt bot by\nพี่โจ ",
+    'message':"selt bot by\n✍☆ĴǾ*ﾟ¨ﾟ✎･",
     "lang":"JP",
-    "comment":"Auto Like By "\nพี่โจ,
+    "comment":"Auto Like By \n✍☆ĴǾ*ﾟ¨ﾟ✎･",
     "commentOn":False,
     "likeOn":False,
     "commentBlack":{},
